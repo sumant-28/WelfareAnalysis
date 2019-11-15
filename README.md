@@ -8,6 +8,8 @@ There are not many publically available choice data sets on which to estimate a 
 * the accuracy of the income/price coefficients 
 * the economic assumption that the coefficient on the cost variable is a good estimate of the marginal utility of income
 
+The estimated willingness to pay is defined using marginal effects in the scale the variable was recorded in. It is the coefficient on any variable in the utility specification divided by the coefficient on the price variable. It is equivalent to the change in consumer surplus from a one unit improvement in any variable that the representative consumer values positively in their utility function.
+
 ## Bibliography
 
 McFadden, D. 1974. *“Conditional Logit Analysis of Qualitative Choice Behaviour”*. Frontiers of Econometrics.
