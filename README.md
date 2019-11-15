@@ -11,3 +11,4 @@ There are not many publically available choice data sets on which to estimate a 
 ## Bibliography
 
 McFadden, D. 1974. *“Conditional Logit Analysis of Qualitative Choice Behaviour”*. Frontiers of Econometrics.
+Small, K. and H. Rosen 1981. "Applied Welfare Economics with Discrete Choice Models". *Econometrica*. 105 -- 130. 
