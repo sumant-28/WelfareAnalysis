@@ -7,3 +7,7 @@ There are not many publically available choice data sets on which to estimate a 
 * the model specification, 
 * the accuracy of the income/price coefficients 
 * the economic assumption that the coefficient on the cost variable is a good estimate of the marginal utility of income
+
+## Bibliography
+
+McFadden, D. 1974. *“Conditional Logit Analysis of Qualitative Choice Behaviour”*. Frontiers of Econometrics.
